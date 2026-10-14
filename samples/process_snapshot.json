@@ -1,0 +1,7 @@
+[
+  {"pid": 101, "ppid": 1, "name": "explorer.exe", "exe": "C:\\Windows\\explorer.exe", "username": "LAB\\analyst", "cmdline": "explorer.exe"},
+  {"pid": 204, "ppid": 101, "name": "powershell.exe", "exe": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "username": "LAB\\analyst", "cmdline": "powershell.exe -EncodedCommand SQBFAFgA"},
+  {"pid": 305, "ppid": 101, "name": "python.exe", "exe": "C:\\Users\\analyst\\AppData\\Local\\Temp\\python.exe", "username": "LAB\\analyst", "cmdline": "python.exe worker.py"},
+  {"pid": 406, "ppid": 101, "name": "mimikatz.exe", "exe": "C:\\Lab\\tools\\mimikatz.exe", "username": "LAB\\analyst", "cmdline": "mimikatz.exe"},
+  {"pid": 507, "ppid": 1, "name": "svchost.exe", "exe": "C:\\Windows\\System32\\svchost.exe", "username": "SYSTEM", "cmdline": "svchost.exe -k netsvcs"}
+]
